@@ -1,0 +1,4 @@
+fervex,10mg,bayer,15,12.12.2018,10,1
+zinat,25mg,antibiotica,17,12.12.2018,10,0
+parasinus,10mg,gsk,9,12.12.2018,20,1
+a,b,c,0,12.12.2018,10,1

@@ -1,0 +1,18 @@
+a cheetah is,mamal,reptile,bird,fish,,mamal,easy,10
+who is Haytham Kenway's father?,Edward Kenway,Connor Kenway,Achiles Davenport,Adelawe,,Edward Kenway,easy,10
+which one is a prime number?,1,2,4,6,,2,easy,10
+nfl is a?,football league,basket league,soccer league,rugby league,,football league,easy,10
+ezio was an,assassim,templar,pirate,privateer,,assassin,easy,10
+adelawe was from,trinidad,africa,europe,north america,,trinidad,easy,10
+blackbeard name was,edward thatch,unknown,blackbeard,shelly king,,edward thatch,easy,10
+proffessor snape was,awesome,voldemort,badass,ac,,ac,easy,10
+hagrid always wanted a,dragon,hipogriff,spider,centaur,,dragon,easy,10
+sweet child o mine is singed by,guns and roses,ac dc,bon jovi,queen,,guns and roses,easy,10
+i want it all is sang by,acdc,kiss,queen,rolling stones,,queen,easy,10
+kobain was killed by,supradosage,suicide using a gun,murder,accidemt,,suicide using a gun,medium,15
+the dj from kdst was,sage,tony the nightmare smith,phunktipus,julio-g,,tony the nightmare smith,medium,15
+tony the nightmare smith was played by,axl rose,fredy mercury,slash,rod stewart,,axl rose,medium,15
+slash is guitarist for,acdc,queen,guns and roses,scorpions,,guns and roses,medium,15
+cs go is produced by,blizzard,valve,steam,gaben,,valve,medium,15
+back in black is used in,men in black,jurrasic,jumanji,badboys,,men in black,medium,15
+what is chinas pib,1000000,244354354,3213321,435345,,244354354,hard,20
